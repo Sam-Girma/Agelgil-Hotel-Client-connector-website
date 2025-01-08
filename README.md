@@ -9,11 +9,3 @@ Hotels and clients have crud capabilities on their account. In this the hotels c
 On the authentication features are both the client and hotel can sigh up, login/logout.
 On the authorization feature is that the client, the hotels and the website admins have different access control. The hotel is limited to managing the hotel side data through the dashboard. Same wise the client is limited to managing its account. While the website admins have full control over the website indicated through the dashboard. Here the website admins can assign/revoke/manage permissions of both hotel and clients.
 The project uses Restful API for the backend, Mysql relational database for data storing.
-
-Group members
-
-Henok Mekuanint UGR/2272/12   section 1
-
-Joshua Tesfaye  UGR/0359/12   section 2
-
-Samuel Girma    UGR/6303/12   section 1
